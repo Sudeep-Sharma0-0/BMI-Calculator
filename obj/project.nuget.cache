@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+YJRE3edP8FTUp5dZWTrdAJXYbH6t1Vn59gW/0uY/Xujvv1gMhJC2UzRcv9+ZqEgLRM02kX9wwKXl7QZcLOz0Q==",
+  "success": true,
+  "projectFilePath": "/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/BMI-Calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/sudeep/.cache/NuGetPackages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

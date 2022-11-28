@@ -1,0 +1,15 @@
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/BMI-Calculator
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/BMI-Calculator.deps.json
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/BMI-Calculator.runtimeconfig.json
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/BMI-Calculator.dll
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/BMI-Calculator.pdb
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.csproj.AssemblyReference.cache
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.AssemblyInfoInputs.cache
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.AssemblyInfo.cs
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.csproj.CoreCompileInputs.cache
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.dll
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/refint/BMI-Calculator.dll
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.pdb
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/BMI-Calculator.genruntimeconfig.cache
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/obj/Debug/net7.0/ref/BMI-Calculator.dll
