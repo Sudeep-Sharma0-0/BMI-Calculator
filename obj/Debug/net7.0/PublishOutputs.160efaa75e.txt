@@ -1,0 +1,5 @@
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/publish/BMI-Calculator
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/publish/BMI-Calculator.dll
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/publish/BMI-Calculator.deps.json
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/publish/BMI-Calculator.runtimeconfig.json
+/home/sudeep/Documents/Self/dotnet/Projects/BMI-Calculator/bin/Debug/net7.0/publish/BMI-Calculator.pdb
